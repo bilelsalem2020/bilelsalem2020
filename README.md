@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bilelsalem2020
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on takiacademy
 - 📫 How to reach me phone:+21628151119
 
 <!---
