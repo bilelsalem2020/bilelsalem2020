@@ -1,6 +1,6 @@
 - 👋 Hi, I’m BILEL SALEM
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning js
+- 🌱 I learnt html css javaScript scss
 - 📫 How to reach me phone:+21628151119
 
 <!---
